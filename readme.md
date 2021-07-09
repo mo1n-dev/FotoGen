@@ -8,6 +8,9 @@ FotoGen is a web app to get random images every time, save those images as jpeg 
 
 ---
 
+## Try FotoGen here ==> https://mo1n-dev.github.io/FotoGen/
+---
+
 ## Visual status of FotoGen
 
 <img width="684" alt="Screen Shot 2021-07-09 at 7 26 26 PM" src="https://user-images.githubusercontent.com/85831534/125116276-c9f34880-e0ec-11eb-832e-b84a75bc61a7.png">
